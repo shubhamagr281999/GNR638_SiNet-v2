@@ -1,6 +1,9 @@
 # GNR638_SiNet-v2
 Implementation of SiNet-v2 network for Concealed Object Detection (COD), which aims to identify objects that are visually embedded in their background.
 
+# Model Architecture and results
+https://youtu.be/qlXsytaZc3w
+
 # Training pipeline
 - Download and place the COD-10K dataset in the same directory as the code
 - python train.py for training the SiNet-v2 Network on the dataset
